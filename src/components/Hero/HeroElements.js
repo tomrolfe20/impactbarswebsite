@@ -1,10 +1,11 @@
 import styled from "styled-components";
-import ImgBg from '../images/festival11.jpg';
+import ImgBg from '../images/backgroundimage2.jpg';
 import { Link as LinkS } from 'react-scroll'
 
 export const HeroContainer = styled.div`
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1)),
   url(${ImgBg});
+  /* background: url(${ImgBg}); */
   min-height: 100vh;
   background-position: center;
   background-size: cover;
@@ -26,7 +27,7 @@ export const HeroItems = styled.div`
   height: 100vh;
   max-height: 100%;
   padding: 0 2rem;
-  width: 650px;
+  min-width: 650px;
   color: #E4F9F5;
   text-transform: uppercase;
   line-height: 1;
@@ -41,11 +42,13 @@ export const HeroH1 = styled.h1`
   margin-bottom: 1rem;
   letter-spacing: 3px;
   color: #30E3CA;
+  padding-bottom: 1rem;
 `
 
 export const HeroP = styled.p`
-  font-size: clamp(2rem, 2.5vw, 3rem);
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
   margin-bottom: 2rem;
+  height: 80px;
 `
 
 export const HeroBtn = styled.button`

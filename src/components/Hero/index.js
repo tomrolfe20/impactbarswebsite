@@ -13,8 +13,8 @@ const Hero = () => {
             <HeroContent>
                 <HeroItems>
                     <HeroH1>Impact Bars</HeroH1>
-                    <HeroP>How can we help?</HeroP>
-                    <HeroLink to='contact'><HeroBtn><h1>Contact</h1></HeroBtn></HeroLink>
+                    <HeroP>We've got you covered</HeroP>
+                   <HeroLink to='contact'><HeroBtn><h1>Contact us</h1></HeroBtn></HeroLink>
                 </HeroItems>
             </HeroContent>
         </HeroContainer>

@@ -13,6 +13,7 @@ export const Nav = styled.nav`
   position: fixed;
   top: 0;
   z-index: 10;
+  
 
   @media screen and (max-width: 800px) {
     background-color: transparent

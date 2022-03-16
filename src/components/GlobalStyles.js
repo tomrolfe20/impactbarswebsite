@@ -8,6 +8,7 @@ export const GlobalStyle = createGlobalStyle`
       padding: 0;
       font-family: 'Kanit', sans-serif;
       scroll-behavior: smooth;
+      overflow-x: hidden;
   }
 `;
 

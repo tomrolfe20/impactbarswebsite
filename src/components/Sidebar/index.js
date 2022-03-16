@@ -16,11 +16,10 @@ const Sidebar = ({isOpen, toggle}) => {
                 <CloseIcon />
             </Icon>
             <SidebarMenu>
-                <SidebarLink to='testimonials' onClick={toggle}>Testimonials</SidebarLink>
                 <SidebarLink to='whatwedo' onClick={toggle}>What we do</SidebarLink>
-                <SidebarLink to='team' onClick={toggle}>Team</SidebarLink>
+                <SidebarLink to='clients' onClick={toggle}>Clients</SidebarLink>
                 <SidebarLink to='work' onClick={toggle}>Work</SidebarLink>
-                <SidebarLink to='previousevents' onClick={toggle}>Events</SidebarLink>
+                <SidebarLink to='testimonials' onClick={toggle}>Testimonials</SidebarLink>
                 <SidebarLink to='contact' onClick={toggle}>Contact</SidebarLink>
             </SidebarMenu>
 

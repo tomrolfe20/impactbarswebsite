@@ -11,9 +11,9 @@ const Testimonials2 = () => {
         <Testimonials2Container id='testimonials'>
           <GlobalHeading>Testimonials</GlobalHeading>
           <InfoSection {...homeObjOne} />
-          <InfoSection {...homeObjTwo} />
-          <InfoSection {...homeObjThree} />
+          {/* <InfoSection {...homeObjTwo} /> */}
           <InfoSection {...homeObjFour} />
+          <InfoSection {...homeObjThree} />
         </Testimonials2Container>
         </>
     )

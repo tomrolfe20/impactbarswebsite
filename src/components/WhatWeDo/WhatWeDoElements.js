@@ -1,10 +1,10 @@
 import styled from "styled-components";
-import ImgBg from '../images/festival10.jpg';
+import ImgBg from '../images/backgroundimage1.jpg';
 
 export const WhatWeDoTextContainer = styled.div`
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1)),
   url(${ImgBg});
-  min-height: 100vh;
+  min-height: 100vh; 
   background-position: center;
   background-size: cover;
   color: #40514E;
@@ -18,9 +18,9 @@ display: flex;
 flex-wrap: wrap;
 flex-direction: column;
 text-align: justify;
-background-color: white;
-width: 50vw;
-padding: 5rem;
+width: 60vw;
+padding: 2rem;
+background-color: rgba(64, 81, 79, 0.8);
 
 @media screen and (max-width: 900px) {
    padding: 30px;
@@ -33,7 +33,8 @@ margin-bottom: 24px;
   font-size: 48px;
   line-height: 1.1;
   font-weight: 600;
-  color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#40514E')};
+  /* color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#40514E')}; */
+  color: #fff;
   text-align: center;
 @media screen and (max-width: 480px) {
     font-size: 32px
@@ -42,7 +43,15 @@ margin-bottom: 24px;
 
 
 export const WhatWeDoP = styled.p`
-  margin-bottom: 35px;
+  text-align: left;
   font-size: 18px;
   line-height: 24px;
+  color: #fff;
 `;
+
+export const WhatWeDoH1 = styled.h1`
+font-size: clamp(2rem, 10vw, 5rem);
+text-align: center;
+margin-bottom: 2rem;
+color: #30E3CA;
+`

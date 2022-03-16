@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { Link as LinkR } from 'react-router-dom'
 import dancers from '../images/dancers.svg';
-import ImgBg from '../images/festivalsatdown.jpg'
+import ImgBg from '../images/backgroundimage4.jpg'
 
 export const WorkContainer = styled.div`
 min-height: 100vh;

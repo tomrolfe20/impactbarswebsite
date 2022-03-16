@@ -17,7 +17,7 @@ justify-content: center;
 
 export const ProductCard = styled.div`
 margin: 10px;
-width: 500px;
+width: 300px;
 
 `
 
@@ -35,7 +35,6 @@ background-color: red;
 
 export const ProductImg = styled.img`
 width: 100%;
-height: auto;
 `
 
 export const ProductInfo = styled.div`
