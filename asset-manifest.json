@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/impactbarswebsite/static/js/main.f1262e2d.js",
+    "main.js": "/impactbarswebsite/static/js/main.467a204f.js",
     "static/js/787.2a1dc4bc.chunk.js": "/impactbarswebsite/static/js/787.2a1dc4bc.chunk.js",
-    "static/media/backgroundimage2.jpg": "/impactbarswebsite/static/media/backgroundimage2.2c4ff7c2be5d9939f43c.jpg",
-    "static/media/backgroundimage1.jpg": "/impactbarswebsite/static/media/backgroundimage1.69e8ee4e6c59380d95eb.jpg",
-    "static/media/backgroundimage4.jpg": "/impactbarswebsite/static/media/backgroundimage4.e3239e6062e76005dd95.jpg",
+    "static/media/backgroundimage2.jpg": "/impactbarswebsite/static/media/backgroundimage2.5e385b47e2d6c030112e.jpg",
     "static/media/javi1.jpg": "/impactbarswebsite/static/media/javi1.12a8942c07c7f1f6bc29.jpg",
+    "static/media/backgroundimage1.jpg": "/impactbarswebsite/static/media/backgroundimage1.3cb16e15c3e1f9ce7a1f.jpg",
+    "static/media/backgroundimage4.jpg": "/impactbarswebsite/static/media/backgroundimage4.2368d7e9d499e27dbb74.jpg",
     "static/media/boomtown1.jpg": "/impactbarswebsite/static/media/boomtown1.5b4aa6e407e854d8f876.jpg",
     "static/media/boomtown.jpg": "/impactbarswebsite/static/media/boomtown.883f54f1f2b672b6f685.jpg",
     "static/media/tom2.jpg": "/impactbarswebsite/static/media/tom2.1d3443a9ef77beba7fb5.jpg",
@@ -16,14 +16,17 @@
     "static/media/colors1.jpg": "/impactbarswebsite/static/media/colors1.ac412fe8fbc85f727e30.jpg",
     "static/media/colours1.jpg": "/impactbarswebsite/static/media/colours1.2e48bb535cb1b8be399c.jpg",
     "static/media/sol.jpg": "/impactbarswebsite/static/media/sol.5399ea93ff93baaa1857.jpg",
+    "static/media/backgroundimage2small.jpg": "/impactbarswebsite/static/media/backgroundimage2small.b02cc74e157fc61c0675.jpg",
     "static/media/alfrescoclient.jpg": "/impactbarswebsite/static/media/alfrescoclient.c6b64f7fe06e7b8b9006.jpg",
+    "static/media/backgroundimage1small.jpg": "/impactbarswebsite/static/media/backgroundimage1small.21075f8047f93272c7d1.jpg",
+    "static/media/backgroundimage4small.jpg": "/impactbarswebsite/static/media/backgroundimage4small.c97174d554ef9d280aee.jpg",
     "index.html": "/impactbarswebsite/index.html",
     "static/media/phone-solid.svg": "/impactbarswebsite/static/media/phone-solid.1a4c7f0a0a2165579332a314b1938a0b.svg",
     "static/media/envelope-solid.svg": "/impactbarswebsite/static/media/envelope-solid.5c1c1b728e1ee5d36dec522469b3186e.svg",
-    "main.f1262e2d.js.map": "/impactbarswebsite/static/js/main.f1262e2d.js.map",
+    "main.467a204f.js.map": "/impactbarswebsite/static/js/main.467a204f.js.map",
     "787.2a1dc4bc.chunk.js.map": "/impactbarswebsite/static/js/787.2a1dc4bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f1262e2d.js"
+    "static/js/main.467a204f.js"
   ]
 }
