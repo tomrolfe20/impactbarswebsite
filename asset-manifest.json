@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/impactbarswebsite/static/js/main.73023384.js",
+    "main.js": "/impactbarswebsite/static/js/main.0b21e033.js",
     "static/js/787.2a1dc4bc.chunk.js": "/impactbarswebsite/static/js/787.2a1dc4bc.chunk.js",
     "static/media/backgroundimage2.jpg": "/impactbarswebsite/static/media/backgroundimage2.5e385b47e2d6c030112e.jpg",
     "static/media/backgroundimage1.jpg": "/impactbarswebsite/static/media/backgroundimage1.3cb16e15c3e1f9ce7a1f.jpg",
     "static/media/backgroundimage4.jpg": "/impactbarswebsite/static/media/backgroundimage4.2368d7e9d499e27dbb74.jpg",
     "static/media/lstd.jpg": "/impactbarswebsite/static/media/lstd.68689b74bdf7bfccd939.jpg",
+    "static/media/boomtownlogo.png": "/impactbarswebsite/static/media/boomtownlogo.fae72bc928cc25d5b37b.png",
     "static/media/boomtown.jpg": "/impactbarswebsite/static/media/boomtown.883f54f1f2b672b6f685.jpg",
     "static/media/arcadia.jpg": "/impactbarswebsite/static/media/arcadia.16e64c51530a13d0acf5.jpg",
     "static/media/carnival.jpg": "/impactbarswebsite/static/media/carnival.7354b603272f85d0a0ee.jpg",
     "static/media/dancers.svg": "/impactbarswebsite/static/media/dancers.80973cd9c90ddac8d3d81256e9467d4c.svg",
     "static/media/alfresco2.jpg": "/impactbarswebsite/static/media/alfresco2.a7b705a26b3666a861f5.jpg",
     "static/media/javi1.jpg": "/impactbarswebsite/static/media/javi1.52ca43a638e33c4be3e2.jpg",
-    "static/media/boomtownlogo.png": "/impactbarswebsite/static/media/boomtownlogo.f583a34269bf1195b5c5.png",
     "static/media/colors1.jpg": "/impactbarswebsite/static/media/colors1.ac412fe8fbc85f727e30.jpg",
     "static/media/colours1.jpg": "/impactbarswebsite/static/media/colours1.2e48bb535cb1b8be399c.jpg",
     "static/media/sol.jpg": "/impactbarswebsite/static/media/sol.5399ea93ff93baaa1857.jpg",
@@ -20,16 +20,18 @@
     "static/media/backgroundimage2small.jpg": "/impactbarswebsite/static/media/backgroundimage2small.b02cc74e157fc61c0675.jpg",
     "static/media/alfrescoclient.jpg": "/impactbarswebsite/static/media/alfrescoclient.c6b64f7fe06e7b8b9006.jpg",
     "static/media/backgroundimage1small.jpg": "/impactbarswebsite/static/media/backgroundimage1small.21075f8047f93272c7d1.jpg",
+    "static/media/stpauls1.png": "/impactbarswebsite/static/media/stpauls1.f2457482b6220d11fc7c.png",
     "static/media/backgroundimage4small.jpg": "/impactbarswebsite/static/media/backgroundimage4small.c97174d554ef9d280aee.jpg",
-    "static/media/stpaulscarnival.gif": "/impactbarswebsite/static/media/stpaulscarnival.0ed06316dd87aa05b507.gif",
-    "static/media/teamlovelogotransparent.gif": "/impactbarswebsite/static/media/teamlovelogotransparent.8d06aeffaf88661195f9.gif",
+    "static/media/teamlovelogo1.png": "/impactbarswebsite/static/media/teamlovelogo1.360fe357799804c7f1af.png",
+    "static/media/upfestlogo1.png": "/impactbarswebsite/static/media/upfestlogo1.916644376de5153567ae.png",
+    "static/media/alfrescologo1.png": "/impactbarswebsite/static/media/alfrescologo1.212d3c2bf33b5abcff50.png",
     "index.html": "/impactbarswebsite/index.html",
     "static/media/phone-solid.svg": "/impactbarswebsite/static/media/phone-solid.1a4c7f0a0a2165579332a314b1938a0b.svg",
     "static/media/envelope-solid.svg": "/impactbarswebsite/static/media/envelope-solid.5c1c1b728e1ee5d36dec522469b3186e.svg",
-    "main.73023384.js.map": "/impactbarswebsite/static/js/main.73023384.js.map",
+    "main.0b21e033.js.map": "/impactbarswebsite/static/js/main.0b21e033.js.map",
     "787.2a1dc4bc.chunk.js.map": "/impactbarswebsite/static/js/787.2a1dc4bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.73023384.js"
+    "static/js/main.0b21e033.js"
   ]
 }
