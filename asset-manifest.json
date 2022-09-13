@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/impactbarswebsite/static/js/main.b8cae185.js",
+    "main.js": "/impactbarswebsite/static/js/main.74ea5c84.js",
     "static/js/787.2a1dc4bc.chunk.js": "/impactbarswebsite/static/js/787.2a1dc4bc.chunk.js",
     "static/media/backgroundimage2.jpg": "/impactbarswebsite/static/media/backgroundimage2.5e385b47e2d6c030112e.jpg",
     "static/media/backgroundimage1.jpg": "/impactbarswebsite/static/media/backgroundimage1.3cb16e15c3e1f9ce7a1f.jpg",
@@ -28,10 +28,10 @@
     "index.html": "/impactbarswebsite/index.html",
     "static/media/phone-solid.svg": "/impactbarswebsite/static/media/phone-solid.1a4c7f0a0a2165579332a314b1938a0b.svg",
     "static/media/envelope-solid.svg": "/impactbarswebsite/static/media/envelope-solid.5c1c1b728e1ee5d36dec522469b3186e.svg",
-    "main.b8cae185.js.map": "/impactbarswebsite/static/js/main.b8cae185.js.map",
+    "main.74ea5c84.js.map": "/impactbarswebsite/static/js/main.74ea5c84.js.map",
     "787.2a1dc4bc.chunk.js.map": "/impactbarswebsite/static/js/787.2a1dc4bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b8cae185.js"
+    "static/js/main.74ea5c84.js"
   ]
 }
